@@ -81,6 +81,20 @@ export default function Footer() {
               TokenRWA is a research tool, not an investment adviser, broker, exchange, issuer, custodian or law firm.
               Nothing here is investment advice.
             </p>
+            <a
+              href="https://orynth.dev/projects/tokenrwa"
+              target="_blank"
+              rel="noopener"
+              className="mt-6 inline-block"
+            >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src="https://orynth.dev/api/badge/tokenrwa?theme=light&style=default"
+                alt="Featured on Orynth"
+                width={260}
+                height={80}
+              />
+            </a>
           </div>
           <div className="grid grid-cols-2 gap-10 sm:grid-cols-3">
             <FooterCol title="Product" links={PRODUCT_LINKS} />

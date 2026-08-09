@@ -1,5 +1,9 @@
 # TokenRWA AI
 
+<a href="https://orynth.dev/projects/tokenrwa" target="_blank" rel="noopener">
+  <img src="https://orynth.dev/api/badge/tokenrwa?theme=light&style=default" alt="Featured on Orynth" width="260" height="80" />
+</a>
+
 **Understand any tokenized asset in seconds.**
 
 The AI research layer for real-world assets onchain. Paste an RWA website, contract address, ticker or project name — TokenRWA gathers available public information, structures it, analyzes it with AI, and generates an **RWA Passport**: backing, token mechanics, yield, redemption, custody, legal signals, liquidity, multichain availability, categorized risks, red flags, due-diligence questions and a deterministic research score, with sources.
