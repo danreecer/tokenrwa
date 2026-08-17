@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     description: "The AI research layer for real-world assets onchain.",
   },
   icons: { icon: "/icon.svg" },
-  other: { "ory-verify": "orynth-3fe996066f0e43df992918a4937fa222" },
+  other: { "ory-verify": "orynth-166f14e13ad24cbcb956bdc2844737b7" },
 };
 
 export const viewport: Viewport = {
